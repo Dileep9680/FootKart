@@ -453,7 +453,10 @@ body {
   transition: var(--transition-1);
 }
 
-.navbar-link:is(:hover, :focus) { color: var(--bittersweet); }
+.navbar-link:is(:hover, :focus) { 
+  color: var(--bittersweet);
+  font-weight: bold;
+}
 
 .navbar-item:not(:last-child) { border-bottom: 1px solid var(--gainsboro); }
 

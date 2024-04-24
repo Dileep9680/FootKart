@@ -241,3 +241,19 @@ Subscribe
 # GO TOP
 
 <ion-icon name="arrow-up-outline"></ion-icon>
+
+
+#about page 
+navbar and the footer will remain the same as in the previous page
+the basic information about the website and brand.... from Drirector's person
+
+
+# Contact page - it will include the
+navbar and the footer will remain the same as in the previous page
+
+Address
+phone number
+email Address
+contact us form
+map
+
