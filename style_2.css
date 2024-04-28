@@ -62,3 +62,25 @@
     border-radius: 20px;
     margin-left: 40%;
 }
+
+
+/*================Blog Section=====================*/
+
+.blog-section {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    border: 2px solid yellow;
+}
+
+.blog-section div {
+    border: 5px solid red;
+    margin: 10px;
+    padding: 5px;
+}
+
+.blog-section div img {
+    width: 400px;
+
+}
+
